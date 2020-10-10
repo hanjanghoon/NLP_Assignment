@@ -1,0 +1,29 @@
+자연어 처리 HW4
+
+120190211 한장훈
+
+사용 언어 PYTHON 3.6
+개발환경 JetBrains PyCharm 2018.3.5 x64
+
+제출 파일
+train_cbow.py
+train_skipgram.py
+word_analogy_cbow.py
+word_analogy_skipgram.py
+descriptions.txt
+
+train_cbow는 cbow를 학습하는 코드입니다. data폴더에 text8.txt가 위치해 있습니다. 제출파일에는 동봉하지 않았습니다.
+기존 코드대로 실행하였습니다.
+
+train_skipgram 도 마찬가지로 skipgram 학습하는 코드입니다. cbow와는 다르게 중심워드 4개를 복사해서 주변단어 4개가
+나오도록 하였습니다. 마찬가지로 data폴더 내의 text8.txt가 실행시 필요합니다. 파라미터는 train_cbow와 같게 설정하였습니다.
+
+train 결과는 "one"과 가까운 단어를 출력시켜 보았는데 cbow의 경우 관련단어가 top10개중 1개 밖에 안되었고, skipgram은 
+top10중 5개정도가 관련이 있었습니다.  skipgram이 시간이 5배정도 걸려서 2시간 반정도 걸렸던만큼 학습이 더 잘된것 같습니다.
+
+하지만 word_analogy_cbow.py, word_analogy_skipgram.py 두 개의  코드 모두 정확도가 0.0005로 한번의 경우에만 맞게 나옵니다.
+속도를 위해 임베딩 weight를 행렬로 뽑아서 F.cosine_similarity를 사용합니다.
+실행을 하기위해 각각 미리 학습된 모델이 필요합니다.( 제출파일에 동봉하지는 않았습니다.)
+또한 data디렉토리내의 questions_words.txt가 위치하여야합니다.( 제출파일에 동봉하지는 않았습니다.)
+
+감사합니다. 

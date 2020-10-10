@@ -1,0 +1,20 @@
+(S (NP (n I)(VP (VP (v saw)(NP (DT (det a)(NP (NP (n man)(PP (P (p on)(NP (DT (det the)(NP (NP (n hill)(PP (P (p with)(NP (DT (det the)(NP (n telescope))))))))))
+(S (NP (n I)(VP (VP (v saw)(NP (DT (det a)(NP (NP (n man)(PP (P (p on)(NP (NP (DT (det the)(NP (n hill))(PP (P (p with)(NP (DT (det the)(NP (n telescope)))))))))
+(S (NP (n I)(VP (VP (v saw)(NP (DT (det a)(NP (NP (NP (n man)(PP (P (p on)(NP (DT (det the)(NP (n hill))))(PP (P (p with)(NP (DT (det the)(NP (n telescope)))))))
+(S (NP (n I)(VP (VP (v saw)(NP (NP (DT (det a)(NP (n man))(PP (P (p on)(NP (DT (det the)(NP (NP (n hill)(PP (P (p with)(NP (DT (det the)(NP (n telescope)))))))))
+(S (NP (n I)(VP (VP (v saw)(NP (NP (DT (det a)(NP (n man))(PP (P (p on)(NP (NP (DT (det the)(NP (n hill))(PP (P (p with)(NP (DT (det the)(NP (n telescope))))))))
+(S (NP (n I)(VP (VP (v saw)(NP (NP (DT (det a)(NP (NP (n man)(PP (P (p on)(NP (DT (det the)(NP (n hill)))))(PP (P (p with)(NP (DT (det the)(NP (n telescope))))))
+(S (NP (n I)(VP (VP (v saw)(NP (NP (NP (DT (det a)(NP (n man))(PP (P (p on)(NP (DT (det the)(NP (n hill))))(PP (P (p with)(NP (DT (det the)(NP (n telescope))))))
+(S (NP (n I)(VP (VP (VP (v saw)(NP (DT (det a)(NP (n man)))(PP (P (p on)(NP (DT (det the)(NP (NP (n hill)(PP (P (p with)(NP (DT (det the)(NP (n telescope))))))))
+(S (NP (n I)(VP (VP (VP (v saw)(NP (DT (det a)(NP (n man)))(PP (P (p on)(NP (NP (DT (det the)(NP (n hill))(PP (P (p with)(NP (DT (det the)(NP (n telescope)))))))
+(S (NP (n I)(VP (VP (VP (v saw)(NP (DT (det a)(NP (NP (n man)(PP (P (p on)(NP (DT (det the)(NP (n hill))))))(PP (P (p with)(NP (DT (det the)(NP (n telescope)))))
+(S (NP (n I)(VP (VP (VP (v saw)(NP (NP (DT (det a)(NP (n man))(PP (P (p on)(NP (DT (det the)(NP (n hill)))))(PP (P (p with)(NP (DT (det the)(NP (n telescope)))))
+(S (NP (n I)(VP (VP (VP (VP (v saw)(NP (DT (det a)(NP (n man)))(PP (P (p on)(NP (DT (det the)(NP (n hill))))(PP (P (p with)(NP (DT (det the)(NP (n telescope)))))
+
+(S (NP (n time)(VP (VP (v flies)(PP (P (p like)(NP (DT (det an)(NP (n arrow)))))
+(S (NP (NP (n time)(VP (v flies))(VP (VP (v like)(NP (DT (det an)(NP (n arrow))))
+
+(S (NP (DT (det the)(NP (n man))(VP (VP (v saw)(NP (DT (det the)(NP (NP (n man)(PP (P (p with)(NP (DT (det the)(NP (n telescope)))))))
+(S (NP (DT (det the)(NP (n man))(VP (VP (v saw)(NP (NP (DT (det the)(NP (n man))(PP (P (p with)(NP (DT (det the)(NP (n telescope))))))
+(S (NP (DT (det the)(NP (n man))(VP (VP (VP (v saw)(NP (DT (det the)(NP (n man)))(PP (P (p with)(NP (DT (det the)(NP (n telescope)))))
+
